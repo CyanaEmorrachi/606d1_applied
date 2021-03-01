@@ -1,5 +1,5 @@
 # 606d1
-## This is a template for a simple R project that process PM2.5 data.
+## This is an applied template for a simple R project that process PM2.5 data.
 
 All the R scripts are in the root folder. <br/>
 All metadata files are in .csv format for easy extraction and maximum compatibility.
