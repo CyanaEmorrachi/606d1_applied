@@ -6,7 +6,7 @@ Description:,"This is the raw data of daily PM2.5 value of different regions in 
 Constrains:,None
 ,
 Data Info,
-Data year:,2017,
+Data year:,2017
 Location:,Beijing
 Col Cat:,date - record date - yyyymmdd,hour - record time - hh,type - record type - PM2.5,regions
 Row Cat:,
