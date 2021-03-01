@@ -16,4 +16,4 @@ na.func <- function(data,na.rm = TRUE ) {
 }
 
 # na.rm == True data does not change, na.rm == False change na to 0
-dt1 <- na.func(dt,na.rm = )
+dt1 <- na.func(dt2017,na.rm = TRUE)
