@@ -1,7 +1,7 @@
 # 606d1_applied
 ## This is an applied template for a simple R project that process PM2.5 data.
 
-All the R scripts are in the root folder. <br/>
+All the R scripts are placed in the root folder for easier direct access. <br/>
 All metadata files are in .csv format for easy extraction and maximum compatibility.
 
 ## File Structure
