@@ -17,7 +17,7 @@ ggplot(trends,aes(month1,BJ))+
 dev.off()
 
 # regional plot
-png(file = "output/figure/regions.jpg")
+png(file = "output/figure/regions.png")
 
 ggplot(regions,aes(x=regions,y=value,fill=value))+
   # plot bar
